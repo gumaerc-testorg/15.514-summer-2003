@@ -2,8 +2,13 @@
 content_type: resource
 description: Objectives, reading assignments, class preparation questions, graded
   assignments, optional problems on 'Revenue recognition'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-514-financial-and-managerial-accounting-summer-2003/fe7520d20386032793b4067a4d6a229c_lec5overview.pdf
+file: /media/courses/15-514-financial-and-managerial-accounting-summer-2003/fe7520d20386032793b4067a4d6a229c_lec5overview.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec5overview.pdf
 uid: fe7520d2-0386-0327-93b4-067a4d6a229c

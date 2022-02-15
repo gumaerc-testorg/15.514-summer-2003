@@ -2,8 +2,13 @@
 content_type: resource
 description: Objectives, gameplan and class pedagogy, reading assignments on 'Introduction
   to Cost Concepts'.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-514-financial-and-managerial-accounting-summer-2003/36ee451fef008c14a322230735aa4bf3_lec16overview.pdf
+file: /media/courses/15-514-financial-and-managerial-accounting-summer-2003/36ee451fef008c14a322230735aa4bf3_lec16overview.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec16overview.pdf
 uid: 36ee451f-ef00-8c14-a322-230735aa4bf3

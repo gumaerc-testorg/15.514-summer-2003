@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-514-financial-and-managerial-accounting-summer-2003/f7242c907f33f1be4ae7b38dd4cadc0f_lec7intel.pdf
+file: /media/courses/15-514-financial-and-managerial-accounting-summer-2003/f7242c907f33f1be4ae7b38dd4cadc0f_lec7intel.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec7intel.pdf
 uid: f7242c90-7f33-f1be-4ae7-b38dd4cadc0f

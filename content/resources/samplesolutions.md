@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 0eac09a1-d66a-f51c-e0dd-1de460b9fbbc
 resourcetype: Document
 title: samplesolutions.pdf
 uid: c8d4748d-eaba-dc72-a8fa-c83de99d6878

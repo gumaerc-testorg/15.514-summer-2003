@@ -6,6 +6,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/3ea3aa0315
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec11notes.pdf
 uid: 3ea3aa03-15e0-1581-408f-ac227a2d0e5f
 ---
 Notes on Accounting for Income Taxes; accounting for timing differences for income tax and disclosure rules.
-

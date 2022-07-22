@@ -5,6 +5,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/cfd37895bd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm.pdf
 uid: cfd37895-bdb4-39bc-bdab-7c9509fa8364
 ---
 Midterm exam, solution are not included.
-

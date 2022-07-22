@@ -6,6 +6,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/36ee451fef
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec16overview.pdf
 uid: 36ee451f-ef00-8c14-a322-230735aa4bf3
 ---
 Objectives, gameplan and class pedagogy, reading assignments on 'Introduction to Cost Concepts'.
-

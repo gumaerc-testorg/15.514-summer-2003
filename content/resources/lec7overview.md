@@ -5,6 +5,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/42cae1a0da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec7overview.pdf
 uid: 42cae1a0-da1d-9be1-043d-5115bff18eaf
 ---
 An Overview on The Matching Principle and Long-lived Assets
-

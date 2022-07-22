@@ -5,6 +5,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/78c5f6d678
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec15notes.pdf
 uid: 78c5f6d6-7892-55c5-78c2-5697353c5e0b
 ---
 Lecture notes on leases and debt covenants.
-

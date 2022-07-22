@@ -5,6 +5,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/c8d4748dea
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: samplesolutions.pdf
 uid: c8d4748d-eaba-dc72-a8fa-c83de99d6878
 ---
 Solutions to Sample Midterm
-

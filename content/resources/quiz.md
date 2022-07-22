@@ -5,6 +5,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/f1c645f93f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz.pdf
 uid: f1c645f9-3f80-1feb-8b7d-35f3e9bad2ce
 ---
 Quiz
-

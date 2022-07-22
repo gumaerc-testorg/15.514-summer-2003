@@ -6,6 +6,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/a2ed90da18
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec9handout2.pdf
 uid: a2ed90da-18c9-6c96-29e9-a1e10a3f4a63
 ---
 Handout supporting "An Exercise for Preparing the Statement of Cash Flows Using the Direct and Indirect Methods"
-

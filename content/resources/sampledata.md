@@ -5,6 +5,7 @@ file: /courses/15-514-financial-and-managerial-accounting-summer-2003/4da95ce239
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sampledata.pdf
 uid: 4da95ce2-3946-bad0-f90a-4834a0a76d59
 ---
 Financial data for use with Sample Midterm
-

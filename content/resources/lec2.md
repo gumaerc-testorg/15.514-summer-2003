@@ -3,6 +3,7 @@ content_type: resource
 description: 'Description on Financial Accounting Concepts:  Objectives, Game plan
   and exercises.'
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/c196ee3a70dfd08a2e72a6e1bb262fa8_lec2.pdf
+file_size: 105193
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

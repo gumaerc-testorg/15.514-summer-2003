@@ -3,6 +3,7 @@ content_type: resource
 description: Objectives, class pedagogy and gameplan, reading assignments, and class
   preparation questions on 'Moving Beyond ABC'.
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/8d601c5a701bc2f1aebeee68086d8f71_lec18overview.pdf
+file_size: 27863
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

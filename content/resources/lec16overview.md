@@ -3,6 +3,7 @@ content_type: resource
 description: Objectives, gameplan and class pedagogy, reading assignments on 'Introduction
   to Cost Concepts'.
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/36ee451fef008c14a322230735aa4bf3_lec16overview.pdf
+file_size: 12743
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

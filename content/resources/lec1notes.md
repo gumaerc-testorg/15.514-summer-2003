@@ -2,6 +2,7 @@
 content_type: resource
 description: Details on 'Economic Consequences of Accounting'.
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/9e420d459d5986d151e972be0cdbf063_lec1notes.pdf
+file_size: 307121
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

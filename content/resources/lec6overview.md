@@ -4,6 +4,7 @@ description: An Overview on Accounting for Inventory and Cost of Goods Sold; Obj
   reading assignments, class preparation questions, optional problems on 'Accounting
   for Inventory and COGs'.
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/33721f0bf033b6480df0085341f2ec1f_lec6overview.pdf
+file_size: 35910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

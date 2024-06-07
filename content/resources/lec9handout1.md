@@ -2,6 +2,7 @@
 content_type: resource
 description: Exercise for Preparing the Statement of Cash Flows
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/406082d258dbd5390fc2511eb382b4ab_lec9handout1.pdf
+file_size: 46566
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

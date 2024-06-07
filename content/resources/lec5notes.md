@@ -2,6 +2,7 @@
 content_type: resource
 description: Notes on Intel Cash Collections, Circuit City
 file: /courses/15-514-financial-and-managerial-accounting-summer-2003/3abd10fd6c3fb02fed7ff6a665bd2c84_lec5notes.pdf
+file_size: 52759
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

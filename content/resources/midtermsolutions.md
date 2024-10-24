@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/e2b6c21c8149f631d29217b93f2237e2_midtermsolutions.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/e2b6c21c8149f631d29217b93f2237e2_midtermsolutions.pdf
 file_size: 70484
 file_type: application/pdf
 learning_resource_types:

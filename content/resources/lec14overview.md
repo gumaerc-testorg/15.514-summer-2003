@@ -2,7 +2,7 @@
 content_type: resource
 description: Objectives, reading assignments and class preparation questions on 'Long-Term
   Debt'.
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/8a1e545fc87009018bec311dd897b7a8_lec14overview.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/8a1e545fc87009018bec311dd897b7a8_lec14overview.pdf
 file_size: 75541
 file_type: application/pdf
 learning_resource_types:

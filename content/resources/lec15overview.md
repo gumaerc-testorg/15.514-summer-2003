@@ -2,7 +2,7 @@
 content_type: resource
 description: Objectives, game plan and class pedagogy, reading assignments, class
   preparation questions on 'Leases'.
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/0eb9d38d3e8338dd3bfa56d2eb947e92_lec15overview.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/0eb9d38d3e8338dd3bfa56d2eb947e92_lec15overview.pdf
 file_size: 79188
 file_type: application/pdf
 learning_resource_types:

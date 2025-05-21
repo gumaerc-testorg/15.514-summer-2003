@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout supporting "An Exercise for Preparing the Statement of Cash Flows
   Using the Direct and Indirect Methods"
-file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/a2ed90da18c96c9629e9a1e10a3f4a63_lec9handout2.pdf
+file: /courses/15-514-financial-and-managerial-accounting-summer-2003/a2ed90da18c96c9629e9a1e10a3f4a63_lec9handout2.pdf
 file_size: 67152
 file_type: application/pdf
 learning_resource_types:

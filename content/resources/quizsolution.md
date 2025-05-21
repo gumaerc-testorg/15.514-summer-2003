@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/32637b0dca247be6408db6c2fd8da3f8_quizsolution.pdf
+file: /courses/15-514-financial-and-managerial-accounting-summer-2003/32637b0dca247be6408db6c2fd8da3f8_quizsolution.pdf
 file_size: 43823
 file_type: application/pdf
 learning_resource_types:

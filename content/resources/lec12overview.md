@@ -2,7 +2,7 @@
 content_type: resource
 description: Objectives, reading assignments and class preparation questions on 'Marketable
   Securities And Valuation Adjustments'
-file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/395b75756d241e0831d93bda935b4b39_lec12overview.pdf
+file: /courses/15-514-financial-and-managerial-accounting-summer-2003/395b75756d241e0831d93bda935b4b39_lec12overview.pdf
 file_size: 82599
 file_type: application/pdf
 learning_resource_types:

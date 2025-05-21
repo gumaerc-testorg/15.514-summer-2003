@@ -2,7 +2,7 @@
 content_type: resource
 description: An insight into Manegerial Accounting, Cost Behaviour, inventory counting,
   key strategic management decisions.
-file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/af8f43bd5794377ffe7e0b0dec079627_lec16notes.pdf
+file: /courses/15-514-financial-and-managerial-accounting-summer-2003/af8f43bd5794377ffe7e0b0dec079627_lec16notes.pdf
 file_size: 175180
 file_type: application/pdf
 learning_resource_types:

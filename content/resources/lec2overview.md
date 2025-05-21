@@ -2,7 +2,7 @@
 content_type: resource
 description: Objectives, reading assignments and class preparation questions on 'Principles
   of Accural Accounting'.
-file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/de9312b9914e7b3a7068b9ac1222695d_lec2overview.pdf
+file: /courses/15-514-financial-and-managerial-accounting-summer-2003/de9312b9914e7b3a7068b9ac1222695d_lec2overview.pdf
 file_size: 26505
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on Accounting for Long-lived Assets
-file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/20e681f4b734dec8a1d34d73bd0067c2_lec7notes.pdf
+file: /courses/15-514-financial-and-managerial-accounting-summer-2003/20e681f4b734dec8a1d34d73bd0067c2_lec7notes.pdf
 file_size: 261871
 file_type: application/pdf
 learning_resource_types:

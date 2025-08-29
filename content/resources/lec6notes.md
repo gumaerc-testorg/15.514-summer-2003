@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on Accounting for Inventory
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/a206798950af086d108d23ab563c1cf4_lec6notes.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/a206798950af086d108d23ab563c1cf4_lec6notes.pdf
 file_size: 861344
 file_type: application/pdf
 learning_resource_types:

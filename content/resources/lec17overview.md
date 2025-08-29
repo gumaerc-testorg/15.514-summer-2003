@@ -2,7 +2,7 @@
 content_type: resource
 description: Objectives, class preparation questions, class pedagogy, game plan on
   'Activity Based Costing'.
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/c30ec9ba0a052f7952c605c20993b04c_lec17overview.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/c30ec9ba0a052f7952c605c20993b04c_lec17overview.pdf
 file_size: 16576
 file_type: application/pdf
 learning_resource_types:

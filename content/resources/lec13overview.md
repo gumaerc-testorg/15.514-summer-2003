@@ -2,7 +2,7 @@
 content_type: resource
 description: Objectives, reading assignments, and class preparation questions on 'Current
   Liabilities and Contigencies and an Introduction to Long-Term Debt'.
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/d85cedc03c25d3cf0ad2ae927b9ad141_lec13overview.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/d85cedc03c25d3cf0ad2ae927b9ad141_lec13overview.pdf
 file_size: 78303
 file_type: application/pdf
 learning_resource_types:

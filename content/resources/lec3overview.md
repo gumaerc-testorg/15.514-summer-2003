@@ -2,7 +2,7 @@
 content_type: resource
 description: Objectives, reading asssignments, class preparation questions, graded
   assignmenst, optional problems on 'Elements of an Annual Report and Financial Ratios'.
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/fdb634d087ac464e2cc2ab28d3389169_lec3overview.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/fdb634d087ac464e2cc2ab28d3389169_lec3overview.pdf
 file_size: 34163
 file_type: application/pdf
 learning_resource_types:

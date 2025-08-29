@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on Objectives and Game Plan
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/17d72f83ee9eb93760cba8c642a148ba_lec10notes.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/17d72f83ee9eb93760cba8c642a148ba_lec10notes.pdf
 file_size: 389223
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An Overview on The Matching Principle and Long-lived Assets
-file: /courses/15-514-financial-and-managerial-accounting-summer-2003/42cae1a0da1d9be1043d5115bff18eaf_lec7overview.pdf
+file: /ol-ocw-studio-app/courses/15-514-financial-and-managerial-accounting-summer-2003/42cae1a0da1d9be1043d5115bff18eaf_lec7overview.pdf
 file_size: 32018
 file_type: application/pdf
 learning_resource_types:

@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings
 uid: c5e8866f-fadf-49e8-880e-377e0f13514a
 ---
-For the readings, Pratt refers to the course textbook: Pratt, J.  *Financial Accounting in an Economic Context.* 5th ed. John Wiley & Sons, Inc. CP stands for Case Pack, which includes supplemental readings and cases. Additional material is from the [Intel 2002 Annual Report](https://www.intel.cn/content/dam/doc/report/history-2002-annual-report.pdf) , which can be downloaded from their Web site.
+For the readings, Pratt refers to the course textbook: Pratt, J.  *Financial Accounting in an Economic Context.* 5th ed. John Wiley & Sons, Inc. CP stands for Case Pack, which includes supplemental readings and cases. Additional material is from the {{% resource_link "c3ae1fb7-a255-4e90-9d34-e00d6b91a010" "Intel 2002 Annual Report" %}} , which can be downloaded from their Web site.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
